@@ -1,4 +1,4 @@
-/** This is part of gourmet-town service */
+/** This is part of scala-training service */
 
 addSbtPlugin("io.get-coursier"    % "sbt-coursier"       % "1.0.0")
 addSbtPlugin("com.scalapenos"     % "sbt-prompt"         % "1.0.2")
